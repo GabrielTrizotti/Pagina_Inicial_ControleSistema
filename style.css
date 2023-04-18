@@ -1,6 +1,8 @@
 html {
   height: 100%;
   width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -17,10 +19,12 @@ header {
 
 main {
   margin: 50px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
 
-section {
-  margin-right: 75%;
+section { 
   padding-inline: 32px;
   padding-block: 32px;
   padding-top: 10px;
