@@ -36,10 +36,6 @@ table {
   border-radius: 7px;
 }
 
-table tr td  {
-  font-weight: bold;
-}
-
 td {
   padding: 10px;
   text-align: center;
